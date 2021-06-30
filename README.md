@@ -1,2 +1,1 @@
-# simple-laravel-cache
-Simple Laravel Cache Mechanism
+# Simple Laravel Cache Mechanism
